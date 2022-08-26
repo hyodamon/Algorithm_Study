@@ -53,3 +53,35 @@
 	<li>4번 톱니바퀴의 12시방향이 N극이면 0점, S극이면 8점</li>
 </ul>
 
+### 풀이 과정
+
+1. 먼저 필요한 각 변수(cogwheels: 톱니바퀴, K: 명령어 개수) 들과 명령어(idx: 돌릴 톱니바퀴, dir: 돌릴 방향)들을 입력받는다.
+2. 그리고 옆 톱니바퀴와 맞물리는 곳(2번째와 6번째)의 극을 판별해준 다음에, 다르다면 옆 톱니바퀴를 돌릴 방향만 바꿔주면서(-dir) 재귀 함수 처리한다!
+
+
+설계 자체는 어렵지 않았지만, 너무 당연한 실수 때문에 푸는데 너무 오래 걸렸다😭
+```
+if idx < 3 && cogwheels[idx][2] != cogwheels[idx + 1][6] && !state[idx + 1] {
+    Rotate(idx: idx + 1, dir: -dir, state: tmpState) // 반대 방향(-dir)으로 Rotate
+}
+if idx > 0 && cogwheels[idx][6] != cogwheels[idx - 1][2] && !state[idx - 1] {
+    Rotate(idx: idx - 1, dir: -dir, state: tmpState) // 반대 방향(-dir)으로 Rotate
+}
+```
+이 부분을 `if ~ else if`로 처리해버린 바람에 아래와 같이 양쪽이 모두 극이 다른 경우엔 한 쪽만 돌리게 되어버렸었다.
+
+![](https://velog.velcdn.com/images/hyoda_mon/post/4653f658-db41-4193-99aa-15e0ad77336c/image.png)
+
+제공된 테스트코드는 모두 다 맞았기 때문에 오류를 찾기 힘들었었다.
+
+오류를 찾을 수 있게 해줬던 반례는 다음과 같다.
+```
+00010101
+00000101
+00101010
+10110000
+1
+3 1
+
+정답 : 0
+```
