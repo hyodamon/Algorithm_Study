@@ -14,3 +14,4 @@
 2022.08.22 |재귀, 분할 정복|S1|[1074_Z](https://www.acmicpc.net/problem/1074) | [✅](https://github.com/hyodamon/Swift_Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/1074.%E2%80%85Z) |
 2022.08.23 |DFS|G5|[14503_로봇 청소기](https://www.acmicpc.net/problem/14503) | [✅](https://github.com/hyodamon/Swift_Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Gold/14503.%E2%80%85%EB%A1%9C%EB%B4%87%E2%80%85%EC%B2%AD%EC%86%8C%EA%B8%B0) |
 2022.08.26 |DFS|G5|[14891_톱니바퀴](https://www.acmicpc.net/problem/14891) | [✅](https://github.com/hyodamon/Swift_Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Gold/14891.%E2%80%85%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4) |
+2022.08.30 |BFS|G5|[16234_인구이동](https://www.acmicpc.net/problem/16234) | [✅](https://github.com/hyodamon/Swift_Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Gold/14891.%E2%80%85%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4) |
