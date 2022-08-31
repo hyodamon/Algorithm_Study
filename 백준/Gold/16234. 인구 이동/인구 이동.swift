@@ -1,3 +1,10 @@
+//
+//  main.swift
+//  BOJ
+//
+//  Created by Yang Hyojun on 2022/08/30.
+//
+
 import Foundation
 
 typealias inputVariable = (N: Int, L:Int, R:Int) // 초기 변수
@@ -52,8 +59,7 @@ func BFS(_ startR: Int, _ startC: Int) -> Bool {
 }
 
 
-func Looper() -> Int {
-    var answer = 0
+func Looper() {
     while true {
         var flag = false
         visited = Array(repeating: Array(repeating: 0, count: N), count: N)
@@ -71,9 +77,7 @@ func Looper() -> Int {
         }
         answer += 1
     }
-    
-    return answer
 }
 
-
-print(Looper())
+Looper()
+print(answer)
