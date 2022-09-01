@@ -16,5 +16,7 @@
 2022.08.26 |DFS|G5|[14891_톱니바퀴](https://www.acmicpc.net/problem/14891) | [✅](https://github.com/hyodamon/Swift_Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Gold/14891.%E2%80%85%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4) | Swift |
 2022.08.30 |BFS|G5|[16234_인구이동](https://www.acmicpc.net/problem/16234) | [✅](https://github.com/hyodamon/Swift_Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Gold/16234.%E2%80%85%EC%9D%B8%EA%B5%AC%E2%80%85%EC%9D%B4%EB%8F%99) | Swift |
 2022.08.31 |구현|B2|[10250_ACM 호텔(Class 2)](https://www.acmicpc.net/problem/10250) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10250.%E2%80%85ACM%E2%80%85%ED%98%B8%ED%85%94) | python |
-2022.09.01 |DP|S3|[1003_피보나치 함수(Class 3](https://www.acmicpc.net/problem/1003) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10250.%E2%80%85ACM%E2%80%85%ED%98%B8%ED%85%94) | python |
-2022.09.01 |DFS|S2|[1012_유기농 배추(Class 3)](https://www.acmicpc.net/problem/1012) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10250.%E2%80%85ACM%E2%80%85%ED%98%B8%ED%85%94) | python |
+2022.09.01 |DP|S3|[1003_피보나치 함수(Class 3](https://www.acmicpc.net/problem/1003) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/1003.%E2%80%85%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%ED%95%A8%EC%88%98) | python |
+2022.09.01 |DFS|S2|[1012_유기농 배추(Class 3)](https://www.acmicpc.net/problem/1012) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/1012.%E2%80%85%EC%9C%A0%EA%B8%B0%EB%86%8D%E2%80%85%EB%B0%B0%EC%B6%94) | python |
+
+
