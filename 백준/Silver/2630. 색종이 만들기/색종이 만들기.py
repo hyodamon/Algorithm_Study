@@ -11,19 +11,21 @@ def recursion(n, r, c) :
     global blue, white
     sum = 0
     
+    tmp = paper[r][c]
     for i in range(r, r + n) :
         for j in range(c, c + n) :
-            sum += paper[i][j]
-    if sum == n ** 2 :
+            if paper[i][j] != tmp :
+                half = n // 2
+                recursion(half, r, c)
+                recursion(half, r + half, c)
+                recursion(half, r, c + half)
+                recursion(half, r + half, c + half)
+                return
+            
+    if tmp == 1 :
         blue += 1
-    elif sum == 0 :
-        white += 1
     else :
-        half = n // 2
-        recursion(half, r, c)
-        recursion(half, r + half, c)
-        recursion(half, r, c + half)
-        recursion(half, r + half, c + half)
+        white += 1
     
 
 recursion(N, 0, 0)
