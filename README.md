@@ -22,4 +22,4 @@
 2022.09.04 |DP|S3|[1463_1로 만들기(Class 3)](https://www.acmicpc.net/problem/1463) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/17626.%E2%80%85Four%E2%80%85Squares) | python |
 2022.09.07 |BFS|G5|[7569_토마토(Class 3)](https://www.acmicpc.net/problem/7569) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/17626.%E2%80%85Four%E2%80%85Squares) | python |
 2022.09.10 |Hash|S4|[1764_듣보잡(Class 3)](https://www.acmicpc.net/problem/1764) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/17626.%E2%80%85Four%E2%80%85Squares) | python |
-2022.09.10 |분할정복, |S2|[2630_색종이 만들기(Class 3)](https://www.acmicpc.net/problem/2630) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/17626.%E2%80%85Four%E2%80%85Squares) | python |
+2022.09.10 |분할정복, 재귀|S2|[2630_색종이 만들기(Class 3)](https://www.acmicpc.net/problem/2630) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/17626.%E2%80%85Four%E2%80%85Squares) | python |
