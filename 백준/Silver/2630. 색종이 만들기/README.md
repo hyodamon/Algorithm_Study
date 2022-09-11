@@ -34,3 +34,92 @@
 
  <p>첫째 줄에는 잘라진 햐얀색 색종이의 개수를 출력하고, 둘째 줄에는 파란색 색종이의 개수를 출력한다.</p>
 
+
+### 풀이과정
+
+문제 내용과 그림을 보았을 때, 계속해서 반으로 나눠가기 때문에 분할 정복을 사용해야 겠다고 판단했다.
+
+**처음에 내가 푼 코드**
+```python
+import sys
+
+N = int(sys.stdin.readline())
+
+paper = [list(map(int, sys.stdin.readline().split())) for _ in range(N)]
+
+blue = 0
+white = 0
+
+def recursion(n, r, c) :
+    global blue, white
+    sum = 0
+    
+    for i in range(r, r + n) :
+        for j in range(c, c + n) :
+            sum += paper[i][j]
+    if sum == n ** 2 :
+        blue += 1
+    elif sum == 0 :
+        white += 1
+    else :
+        half = n // 2
+        recursion(half, r, c)
+        recursion(half, r + half, c)
+        recursion(half, r, c + half)
+        recursion(half, r + half, c + half)
+    
+
+recursion(N, 0, 0)
+
+print(white)
+print(blue)
+```
+`recursion()`이라는 함수에 종이의 크기(N)과 시작 좌표(r, c)를 입력받는다. 그리고 입력받은 크기(N * N) 만큼 탐색하면서 모든 값들을 더해준다.
+  
+이때 더한 값이 다 더한 값이 n의 제곱 (n ** 2)이면 탐색한 영역의 종이는 파란색 종이라는 뜻이다. 반대로 0이라면 흰색 종이라는 뜻이다.
+  이 둘에 모두 해당되지 않는다면, 더 분할을 해야 하는 종이이다!
+  
+  분할하는 방법은 half라는 현재 변의 크기의 반(n // 2)의 크기로 시작하는 좌표 4곳을 재귀로 다시 호출하는 것이다. 이렇게 되면 가장 작은 크기의 종이(n == 1) 까지 모두 탐색할 수 있기 때문에 원하는 답을 도출할 수 있다.
+  
+  다 풀고나서 채점도 맞았지만 뭔가 비효율적인 코드를 짠 것 같아서, 다른 사람의 코드를 살펴보았다.
+  
+  **다른 분들의 코드**
+  ```python
+  import sys
+
+N = int(sys.stdin.readline())
+
+paper = [list(map(int, sys.stdin.readline().split())) for _ in range(N)]
+
+blue = 0
+white = 0
+
+def recursion(n, r, c) :
+    global blue, white
+    sum = 0
+    
+    tmp = paper[r][c]
+    for i in range(r, r + n) :
+        for j in range(c, c + n) :
+            if paper[i][j] != tmp :
+                half = n // 2
+                recursion(half, r, c)
+                recursion(half, r + half, c)
+                recursion(half, r, c + half)
+                recursion(half, r + half, c + half)
+                return
+            
+    if tmp == 1 :
+        blue += 1
+    else :
+        white += 1
+    
+
+recursion(N, 0, 0)
+
+print(white)
+print(blue)
+  ```
+  
+ 내 코드와 다른 점은, 탐색할 영역을 모두 더하지 않고 종이의 확인한 부분이 이전과 다르다면(paper[i][j] != tmp) 재귀를 호출하는 것이다.
+  이로 인해, 내 코드의 비효율적인 점을 해결할 수 있었다.
