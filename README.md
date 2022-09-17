@@ -6,7 +6,7 @@
 
 
 날짜        | 플랫폼 | 분류 | 난이도 | 문제명 | 풀이 과정 | 사용 언어 |
-:-------------------------:|:-------------------------: |:-------------------------:    |:-------------------------   |:-------------------------:  |:-------------------------:  
+:-------------------------:|:-------------------------: |:-------------------------: |:-------------------------:    |:-------------------------   |:-------------------------:  |:-------------------------:  
 2022.08.17 |BOJ|Hash|S3|[9375_패션왕 신해빈](https://www.acmicpc.net/problem/9375) | [✅](https://github.com/hyodamon/Swift_Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/9375.%E2%80%85%ED%8C%A8%EC%85%98%EC%99%95%E2%80%85%EC%8B%A0%ED%95%B4%EB%B9%88/README.md) | Swift |
 2022.08.18 |BOJ|Hash, DP|G5|[1351_무한수열](https://www.acmicpc.net/problem/1351) | [✅](https://github.com/hyodamon/Swift_Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Gold/1351.%E2%80%85%EB%AC%B4%ED%95%9C%E2%80%85%EC%88%98%EC%97%B4) | Swift |
 2022.08.19 |BOJ|구현|B2|[13458_시험 감독](https://www.acmicpc.net/problem/13458) | [✅](https://github.com/hyodamon/Swift_Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/13458.%E2%80%85%EC%8B%9C%ED%97%98%E2%80%85%EA%B0%90%EB%8F%85) | Swift |
@@ -26,4 +26,4 @@
 2022.09.15 |BOJ|Heap|G4|[7662_이중 우선순위 큐(Class 3)](https://www.acmicpc.net/problem/7662) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Gold/7662.%E2%80%85%EC%9D%B4%EC%A4%91%E2%80%85%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%E2%80%85%ED%81%90) | python |
 2022.09.15 |BOJ|이분탐색|S4|[10816_숫자카드](https://www.acmicpc.net/problem/10816) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/10816.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%852) | python |
 2022.09.17 |삼성|이분탐색|S4|[5603. [Professional] 건초더미](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGEbd6cjMDFAUo&) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/SWEA/D3/5603.%E2%80%85%EF%BC%BBProfessional%EF%BC%BD%E2%80%85%EA%B1%B4%EC%B4%88%EB%8D%94%EB%AF%B8) | python |
-2022.09.17 |BOJ|이분탐색|S4|[5642. [Professional] 합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXQm2SqdxkDFAUo) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/SWEA/D3/5642.%E2%80%85%EF%BC%BBProfessional%EF%BC%BD%E2%80%85%ED%95%A9) | python |
+2022.09.17 |삼성|이분탐색|S4|[5642. [Professional] 합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXQm2SqdxkDFAUo) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/SWEA/D3/5642.%E2%80%85%EF%BC%BBProfessional%EF%BC%BD%E2%80%85%ED%95%A9) | python |
