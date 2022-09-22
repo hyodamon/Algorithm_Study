@@ -49,23 +49,20 @@ for test_case in range(1, T + 1):
         arr.append(tmp)
         result = max(result, sum(tmp))
         
-     
+    crossSum = 0
+    reverseCrossSum = 0
+    
     for i in range(100) :
         curSum = 0   
         for j in range(100) :
+            if i == j :
+                crossSum += arr[i][j]
+            if 99 - i == j :
+                reverseCrossSum += arr[i][j]
             curSum += arr[j][i]
+            
         result = max(result, curSum)    
-    
-    crossSum = 0
-    for i in range(100) :
-        crossSum += arr[i][i]
-    result = max(result, crossSum)
-    
-    reverseCrossSum = 0
-    for i in range(100) :
-        reverseCrossSum += arr[99-i][i]
-    result = max(result, reverseCrossSum)
-    
+    result = max(result, crossSum, reverseCrossSum)
     
     
     print(f'#{N} {result}')
