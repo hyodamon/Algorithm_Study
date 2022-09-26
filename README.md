@@ -30,6 +30,9 @@
 2022.09.21 |구현|G4|[3190_뱀](https://www.acmicpc.net/problem/3190) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Gold/3190.%E2%80%85%EB%B1%80) | python |
 2022.09.22 |구현|G5|[17070_파이프 옮기기 1](https://www.acmicpc.net/problem/17070) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Gold/17070.%E2%80%85%ED%8C%8C%EC%9D%B4%ED%94%84%E2%80%85%EC%98%AE%EA%B8%B0%EA%B8%B0%E2%80%851) | python |
 2022.09.23 |이분 탐색|S3|[1072_게임](https://www.acmicpc.net/problem/1072) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/1072.%E2%80%85%EA%B2%8C%EC%9E%84) | python |
+2022.09.26 |DP|S4|[11399_ATM](https://www.acmicpc.net/problem/11399) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/11399.%E2%80%85ATM) | python |
+2022.09.26 |DP|S3|[11726_2×n 타일링](https://www.acmicpc.net/problem/11726) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/11726.%E2%80%852%C3%97n%E2%80%85%ED%83%80%EC%9D%BC%EB%A7%81) | python |
+2022.09.26 |DFS, Union Find|S2|[11724_연결 요소 개수](https://www.acmicpc.net/problem/11724) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/11724.%E2%80%85%EC%97%B0%EA%B2%B0%E2%80%85%EC%9A%94%EC%86%8C%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98) | python |
 
 
 ## 프로그래머스
