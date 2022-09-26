@@ -33,6 +33,9 @@
 2022.09.26 |DP|S4|[11399_ATM](https://www.acmicpc.net/problem/11399) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/11399.%E2%80%85ATM) | python |
 2022.09.26 |DP|S3|[11726_2×n 타일링](https://www.acmicpc.net/problem/11726) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/11726.%E2%80%852%C3%97n%E2%80%85%ED%83%80%EC%9D%BC%EB%A7%81) | python |
 2022.09.26 |DFS, Union Find|S2|[11724_연결 요소 개수](https://www.acmicpc.net/problem/11724) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/11724.%E2%80%85%EC%97%B0%EA%B2%B0%E2%80%85%EC%9A%94%EC%86%8C%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98) | python |
+2022.09.26 |Sorting|S2|[18870_좌표 압축](https://www.acmicpc.net/problem/18870) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/18870.%E2%80%85%EC%A2%8C%ED%91%9C%E2%80%85%EC%95%95%EC%B6%95) | python |
+2022.09.26 |DP|S3|[9095_1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/9095.%E2%80%851%EF%BC%8C%E2%80%852%EF%BC%8C%E2%80%853%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0) | python |
+
 
 
 ## 프로그래머스
