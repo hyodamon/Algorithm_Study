@@ -37,8 +37,8 @@
 2022.09.26 |DFS, Union Find|S2|[11724_연결 요소 개수](https://www.acmicpc.net/problem/11724) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/11724.%E2%80%85%EC%97%B0%EA%B2%B0%E2%80%85%EC%9A%94%EC%86%8C%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98) | python |
 2022.09.26 |Sorting|S2|[18870_좌표 압축](https://www.acmicpc.net/problem/18870) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/18870.%E2%80%85%EC%A2%8C%ED%91%9C%E2%80%85%EC%95%95%EC%B6%95) | python |
 2022.09.26 |DP|S3|[9095_1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/9095.%E2%80%851%EF%BC%8C%E2%80%852%EF%BC%8C%E2%80%853%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0) | python |
-2022.09.28 |DP|S2|[1927_최소 힙](https://www.acmicpc.net/problem/1927) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/1927.%E2%80%85%EC%B5%9C%EC%86%8C%E2%80%85%ED%9E%99) | python |
-2022.09.28 |DP|S2|[11279_최대 힙](https://www.acmicpc.net/problem/9095) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/11279.%E2%80%85%EC%B5%9C%EB%8C%80%E2%80%85%ED%9E%99) | python |
+2022.09.28 |Heap|S2|[1927_최소 힙](https://www.acmicpc.net/problem/1927) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/1927.%E2%80%85%EC%B5%9C%EC%86%8C%E2%80%85%ED%9E%99) | python |
+2022.09.28 |Heap|S2|[11279_최대 힙](https://www.acmicpc.net/problem/9095) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/11279.%E2%80%85%EC%B5%9C%EB%8C%80%E2%80%85%ED%9E%99) | python |
 2022.09.29 |Greedy|S1|[1931_회의실 배정](https://www.acmicpc.net/problem/1931) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/1931.%E2%80%85%ED%9A%8C%EC%9D%98%EC%8B%A4%E2%80%85%EB%B0%B0%EC%A0%95) | python |
 2022.09.29 |Stack|G2|[1918_후위 표기식](https://www.acmicpc.net/problem/1918) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Gold/1918.%E2%80%85%ED%9B%84%EC%9C%84%E2%80%85%ED%91%9C%EA%B8%B0%EC%8B%9D) | python |
 
