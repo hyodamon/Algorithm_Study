@@ -29,6 +29,7 @@
 그리디로 풀어야 한다는 것은 알겠지만, 어떠한 규칙으로 찾아야 하는지 생각해도 아이디어를 도출해내기가 너무 힘들었다.
 
 그래서 문제에서 주는 힌트와 알고리즘 분류를 통해 힌트를 얻었다. 
+
 ![](https://velog.velcdn.com/images/hyoda_mon/post/35b27d3d-d5d4-4e8a-b869-9fb3f6824059/image.png)
 
 ![](https://velog.velcdn.com/images/hyoda_mon/post/72056568-462c-4d0f-a1fb-1b2e9cdbcfc7/image.png)
