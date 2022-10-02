@@ -41,6 +41,8 @@
 2022.09.28 |Heap|S2|[11279_최대 힙](https://www.acmicpc.net/problem/9095) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/11279.%E2%80%85%EC%B5%9C%EB%8C%80%E2%80%85%ED%9E%99) | python |
 2022.09.29 |Greedy|S1|[1931_회의실 배정](https://www.acmicpc.net/problem/1931) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/1931.%E2%80%85%ED%9A%8C%EC%9D%98%EC%8B%A4%E2%80%85%EB%B0%B0%EC%A0%95) | python |
 2022.09.29 |Stack|G2|[1918_후위 표기식](https://www.acmicpc.net/problem/1918) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Gold/1918.%E2%80%85%ED%9B%84%EC%9C%84%E2%80%85%ED%91%9C%EA%B8%B0%EC%8B%9D) | python |
+2022.10.02 |Floyd Warshall|S1|[1389_케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/1780.%E2%80%85%EC%A2%85%EC%9D%B4%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98) | python |
+2022.10.02 |분할 정복|S2|[1780_종이의 개수](https://www.acmicpc.net/problem/1780) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/1389.%E2%80%85%EC%BC%80%EB%B9%88%E2%80%85%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98%E2%80%856%EB%8B%A8%EA%B3%84%E2%80%85%EB%B2%95%EC%B9%99) | python |
 
 
 
