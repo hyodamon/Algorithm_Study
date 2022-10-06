@@ -43,7 +43,9 @@
 2022.09.29 |Stack|G2|[1918_후위 표기식](https://www.acmicpc.net/problem/1918) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Gold/1918.%E2%80%85%ED%9B%84%EC%9C%84%E2%80%85%ED%91%9C%EA%B8%B0%EC%8B%9D) | python |
 2022.10.02 |Floyd Warshall|S1|[1389_케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/1780.%E2%80%85%EC%A2%85%EC%9D%B4%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98) | python |
 2022.10.02 |분할 정복|S2|[1780_종이의 개수](https://www.acmicpc.net/problem/1780) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/1389.%E2%80%85%EC%BC%80%EB%B9%88%E2%80%85%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98%E2%80%856%EB%8B%A8%EA%B3%84%E2%80%85%EB%B2%95%EC%B9%99) | python |
-2022.10.05 |완전 탐색|S2|[1107_리모컨](https://www.acmicpc.net/problem/1107) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Gold/1107.%E2%80%85%EB%A6%AC%EB%AA%A8%EC%BB%A8) | python |
+2022.10.05 |완전 탐색|G5|[1107_리모컨](https://www.acmicpc.net/problem/1107) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Gold/1107.%E2%80%85%EB%A6%AC%EB%AA%A8%EC%BB%A8) | python |
+2022.10.06 |DP|S3|[2579_](https://www.acmicpc.net/problem/2579) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/2579.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%98%A4%EB%A5%B4%EA%B8%B0) | python |
+2022.10.06 |BFS|G4|[9019_DSLR](https://www.acmicpc.net/problem/9019) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Gold/9019.%E2%80%85DSLR) | python |
 
 
 
