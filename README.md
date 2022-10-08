@@ -46,6 +46,9 @@
 2022.10.05 |완전 탐색|G5|[1107_리모컨](https://www.acmicpc.net/problem/1107) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Gold/1107.%E2%80%85%EB%A6%AC%EB%AA%A8%EC%BB%A8) | python |
 2022.10.06 |DP|S3|[2579_](https://www.acmicpc.net/problem/2579) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/2579.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%98%A4%EB%A5%B4%EA%B8%B0) | python |
 2022.10.06 |BFS|G4|[9019_DSLR](https://www.acmicpc.net/problem/9019) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Gold/9019.%E2%80%85DSLR) | python |
+2022.10.08 |분할 정복|S1|[1992_쿼드트리](https://www.acmicpc.net/problem/1992) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/1992.%E2%80%85%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC) | python |
+2022.10.08 |DFS|G5|[10026_적록색약](https://www.acmicpc.net/problem/10026) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Gold/10026.%E2%80%85%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD) | python |
+2022.10.08 |구현, DFS|G4|[14500_테트로미노](https://www.acmicpc.net/problem/14500) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Gold/14500.%E2%80%85%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8) | python |
 
 
 
