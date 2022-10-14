@@ -53,6 +53,12 @@
 2022.10.10 |문자열|S1|[5525_IOIOI](https://www.acmicpc.net/problem/5525) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/5525.%E2%80%85IOIOI) | python |
 2022.10.10 |구현|G5|[5430_AC](https://www.acmicpc.net/problem/5430) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Gold/5430.%E2%80%85AC) | python |
 2022.10.10 |BFS|G5|[16928_뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Gold/16928.%E2%80%85%EB%B1%80%EA%B3%BC%E2%80%85%EC%82%AC%EB%8B%A4%EB%A6%AC%E2%80%85%EA%B2%8C%EC%9E%84) | python |
+2022.10.11 |DP|S3|[9461_파도반 수열](https://www.acmicpc.net/problem/9461) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/9461.%E2%80%85%ED%8C%8C%EB%8F%84%EB%B0%98%E2%80%85%EC%88%98%EC%97%B4) | python |
+2022.10.11 |DP|S3|[11727_2×n 타일링 2](https://www.acmicpc.net/problem/11727) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/11727.%E2%80%852%C3%97n%E2%80%85%ED%83%80%EC%9D%BC%EB%A7%81%E2%80%852) | python |
+2022.10.14 |Floyd Warshall|S1|[11403_경로 찾기](https://www.acmicpc.net/problem/11403) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/11403.%E2%80%85%EA%B2%BD%EB%A1%9C%E2%80%85%EC%B0%BE%EA%B8%B0) | python |
+2022.10.14 |힙|S1|[11286_절댓값 힙](https://www.acmicpc.net/problem/11286) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/11286.%E2%80%85%EC%A0%88%EB%8C%93%EA%B0%92%E2%80%85%ED%9E%99) | python |
+2022.10.14 |정수론|S1|[6064_카잉 달력](https://www.acmicpc.net/problem/6064) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/6064.%E2%80%85%EC%B9%B4%EC%9E%89%E2%80%85%EB%8B%AC%EB%A0%A5) | python |
+2022.10.15 |BFS|G3|[16236_아기 상어](https://www.acmicpc.net/problem/16236) |[✅](https://github.com/hyodamon/Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Gold/16236.%E2%80%85%EC%95%84%EA%B8%B0%E2%80%85%EC%83%81%EC%96%B4) | python |
 
 
 ## 프로그래머스
